@@ -1,0 +1,1 @@
+- [Dessaline's Crash Course on Socialism](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md#crash-course-socialism)
