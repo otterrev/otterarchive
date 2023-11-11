@@ -1,10 +1,11 @@
-# my favorite food
+# food is amazing
 
 ## channels
 
 - [백종원's Channel](https://www.youtube.com/@paik_jongwon)
 - [윤이련's Channel](https://www.youtube.com/@50food)
 - [엄마의손맛](https://www.youtube.com/@momstaste)
+- [먹어볼래](https://www.youtube.com/@TryToEat)
 
 ## videos
 
