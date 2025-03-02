@@ -1,1 +1,0 @@
-- [Dessalines Marxist Study Plan](https://github.com/dessalines/essays/blob/master/dessalines_marxism_study_plan.md)
