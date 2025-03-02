@@ -1,10 +1,12 @@
 # welcome
 
 hey, i'm sky/wonu (he/they)
-currently, i am taking a break from school but am planning on going for library sciences. 
 
-Feel free to check out my portfolio, resume, and blog on here, although since I'm mostly focused on work I haven't made anything new in a while.
+currently, i am taking a break from school but am planning on going for library sciences, doing art commissions, and video editing.
 
-Last Updated: 5 Nov 2023
+Feel free to check out what is meant to be my website, archives, blog, portfolio, and resume on here, although i will probably update semi-consistently.
+
+Last Updated: 2025 Mar 2
 
 ## table of contents
+- [film/documentary library](film+docu library.md)
