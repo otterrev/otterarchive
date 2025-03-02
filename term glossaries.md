@@ -1,1 +1,0 @@
-- [Dessalines Socialism Glossary](https://github.com/dessalines/essays/blob/master/glossary_of_socialist_terms.md)
