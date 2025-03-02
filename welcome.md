@@ -4,7 +4,7 @@ Hey, I'm Sky/Wonu (he/they)
 
 Currently, I am taking a break from school but am planning on going for library sciences. I'm also doing art commissions, and video editing.
 
-Feel free to check out what is meant to be my website, archives, blog, portfolio, and resume on here, although I will probably update semi-consistently.
+Feel free to check out what is meant to be my archives, blog, portfolio, and resume on here, although I will probably update semi-consistently.
 
 Last Updated: 2025 Mar 2
 
