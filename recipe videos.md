@@ -1,4 +1,4 @@
-# food is amazing
+# recipe videos
 
 ## channels
 
