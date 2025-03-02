@@ -8,5 +8,11 @@ Feel free to check out what is meant to be my website, archives, blog, portfolio
 
 Last Updated: 2025 Mar 2
 
-## table of contents
+## archive table of contents
 - [film/documentary library](archives/film+docu_library.md)
+
+## blog table of contents
+
+## portfolio
+
+## resume
