@@ -14,7 +14,7 @@ Last Updated: 2025 Mar 2
 ## blog table of contents
 
 ## portfolio
-- [portfolio](portfolio.md)
+- [portfolio](portfolio_resume/portfolio.md)
 
 ## resume
-- [resume](resume.md)
+- [resume](portfolio_resume/resume.md)
