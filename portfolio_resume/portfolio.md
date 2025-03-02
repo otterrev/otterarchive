@@ -1,3 +1,3 @@
 # portfolio
 
-- [portfolio link](https://wonu-art.webflow.io/)
+- [portfolio site](https://wonu-art.webflow.io/)
