@@ -5,8 +5,8 @@
 - ereader for reading manga
 - samsung s9 ultra tablet for taking notes on pdf files
 - [obsidian](https://obsidian.md/) for personal notes and other lists not on here
-- anki for learning korean, also learning arabic, cantonese, jeju-eo, spanish, tagalog
-- defaut notes app for workout tracking
+- [Anki](https://apps.ankiweb.net/) for learning korean, also working on learning arabic, cantonese, jeju-eo, spanish, tagalog
+- defaut iOS notes app for workout tracking
 - pocket app for reading articles
  
 ## things im doing
