@@ -6,8 +6,8 @@
 - samsung s9 ultra tablet for taking notes on pdf files
 - [obsidian](https://obsidian.md/) for personal notes and other lists not on here
 - [Anki](https://apps.ankiweb.net/) for learning korean, also working on learning arabic, cantonese, jeju-eo, spanish, tagalog
-- [THENX](https://thenx.com/pages/app) app and default iOS notes for workout tracking
-- pocket app for reading articles
+- [THENX app](https://thenx.com/pages/app) and default iOS notes for workout tracking
+- [Pocket app](https://getpocket.com/home) for reading articles
  
 ## things im doing
 
