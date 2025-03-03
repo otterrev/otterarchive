@@ -10,6 +10,7 @@ Last Updated: 2025 Mar 2
 
 ## archive table of contents
 - [film/documentary library](archives/film+docu_library.md)
+- [recipes](archives/recipe_videos.md)
 
 ## blog table of contents
 - [currently](blog/currently.md)
