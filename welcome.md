@@ -12,6 +12,8 @@ Last Updated: 2025 Mar 2
 - [film/documentary library](archives/film+docu_library.md)
 
 ## blog table of contents
+- [currently](blog/currently.md)
+- [trackers](blog/trackers.md)
 
 ## portfolio
 - [portfolio](portfolio_resume/portfolio.md)
