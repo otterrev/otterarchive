@@ -2,7 +2,7 @@
 
 Hey, I'm Sky/Wonu (he/they)
 
-Feel free to check out what is meant to be my archives, blog, portfolio, and resume on here, although I will probably update semi-consistently.
+Feel free to check out what is meant to be my archives on here, although I will probably update semi-consistently.
 
 Last Updated: 2025 Oct 29
 
