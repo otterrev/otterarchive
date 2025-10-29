@@ -16,6 +16,3 @@ Last Updated: 2025 Oct 29
 
 ## portfolio
 - [portfolio](portfolio_resume/portfolio.md)
-
-## resume
-- [resume](portfolio_resume/resume.md)
