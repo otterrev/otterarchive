@@ -7,7 +7,7 @@ Feel free to check out what is meant to be my archives on here, although I will 
 Last Updated: 2026 July 17
 
 ## archive table of contents
--[audiobooks/podcasts](archives/audiobooks+podcasts.md)
+- [audiobooks/podcasts](archives/audiobooks+podcasts.md)
 - [film/documentary library](archives/film+docu_library.md)
 - [recipes](archives/recipe_videos.md)
 - [videos](archives/video_library.md)
