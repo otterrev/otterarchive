@@ -13,6 +13,3 @@ Last Updated: 2025 Oct 29
 ## blog table of contents
 - [currently](blog/currently.md)
 - [trackers](blog/trackers.md)
-
-## portfolio
-- [portfolio](portfolio_resume/portfolio.md)
